@@ -60,7 +60,9 @@ For today, you will be making something similar...
 
 ##Lesson 1 Archive:
 [1a. Introduction](https://github.com/burnabysouthprogramming/HTML-CSS-Lessons/blob/master/Lesson-1/1a.%20Introduction.md)
+
 [1b. Tags](https://github.com/burnabysouthprogramming/HTML-CSS-Lessons/blob/master/Lesson-1/1b.%20HTML%20Tags.md)
+
 [1c. Images and Links](https://github.com/burnabysouthprogramming/HTML-CSS-Lessons/blob/master/Lesson-1/1c.%20HTML%20Images%20%26%20Links.md)
 
 ##Information Used From
